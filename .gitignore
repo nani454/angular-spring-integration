@@ -21,3 +21,15 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+/src/main/static/node_modules/
+/src/main/package-lock.json
+/src/main/webapp/3rdpartylicenses.txt
+/src/main/webapp/favicon.ico
+/src/main/webapp/index.html
+/src/main/webapp/main-es5.dd1953ae306fc8da5865.js
+/src/main/webapp/main-es2017.dd1953ae306fc8da5865.js
+/src/main/webapp/polyfills-es5.78b5e2d6ae47d62de9d2.js
+/src/main/webapp/polyfills-es2017.d82624a71eb3d983955b.js
+/src/main/webapp/runtime-es5.0fe1b67e90bad4e66b66.js
+/src/main/webapp/runtime-es2017.0fe1b67e90bad4e66b66.js
+/src/main/webapp/styles.31d6cfe0d16ae931b73c.css
