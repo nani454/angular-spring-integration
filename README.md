@@ -1,7 +1,7 @@
 # angular-spring-integration
 This project is to demo the angular and spring integration.
 
-Steps to follow for re-creating a similar project:
+#Steps to follow for re-creating a similar project:
   Create a spring boot using any IDE.
   Use terminal/command prompt and navigate to src/main
   Run command ng new static - this will create a new angular application with the name static. 
