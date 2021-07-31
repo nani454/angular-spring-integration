@@ -12,4 +12,4 @@ This project is to demo the angular and spring integration.
   
   Modify the attribute outputPath in angular.json to ../webapp - this will ensure that ng build commnand will produce the output js files into the webapp. 
   
-  Run the application as a spring boot application. If the angular changes are to be reflected please run the ng build command, which will in turn update the webapp with the js file complied recently.
+  Run the application as a spring boot application. If the angular changes are to be reflected please run the ng build command after the angular changes, this will in turn update the webapp with the js file complied after the changes.
